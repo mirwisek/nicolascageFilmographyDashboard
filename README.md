@@ -4,7 +4,7 @@
 - `streamlit_app.py` is the main file.
 - `nicolas_data.csv` is the filtered dataset mainly used for the dashbaord.
 
-The app is live at .
+The app is live at https://nicolascagefilmographydashboard-dadcsmwn8lqjgmtwn2fod2.streamlit.app/ 
 
 ## Runing locally
 
