@@ -12,7 +12,7 @@ import base64
 ##############################################
 
 # Load data from CSV
-df = pd.read_csv('../dataset/nicholas_data.csv')
+df = pd.read_csv('dataset/nicolas_data.csv')
 
 ##############################################
 # Treemap for Genre vs Movie Count (movie name and rating)
